@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F0261954-D17B-46ED-9696-EFF18F01AAA9}|Default">
+  <MonoDevelop.Ide.ItemProperties.task2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="task2/Program.cs">
+    <Files>
+      <File FileName="task2/Program.cs" Line="24" Column="27" />
+      <File FileName="task2/Vehicle.cs" Line="4" Column="24" />
+      <File FileName="task2/Car.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
