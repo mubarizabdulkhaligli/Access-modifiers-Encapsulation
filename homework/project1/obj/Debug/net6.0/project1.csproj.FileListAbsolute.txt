@@ -1,0 +1,15 @@
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/bin/Debug/net6.0/project1
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/bin/Debug/net6.0/project1.deps.json
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/bin/Debug/net6.0/project1.runtimeconfig.json
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/bin/Debug/net6.0/project1.dll
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/bin/Debug/net6.0/project1.pdb
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/obj/Debug/net6.0/project1.csproj.AssemblyReference.cache
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/obj/Debug/net6.0/project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/obj/Debug/net6.0/project1.AssemblyInfoInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/obj/Debug/net6.0/project1.AssemblyInfo.cs
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/obj/Debug/net6.0/project1.csproj.CoreCompileInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/obj/Debug/net6.0/project1.dll
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/obj/Debug/net6.0/refint/project1.dll
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/obj/Debug/net6.0/project1.pdb
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/obj/Debug/net6.0/project1.genruntimeconfig.cache
+/Users/mubarizabdulkhaligli/Desktop/homeworks/homework/project1/obj/Debug/net6.0/ref/project1.dll

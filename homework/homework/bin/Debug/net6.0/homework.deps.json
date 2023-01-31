@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "homework/1.0.0": {
+        "dependencies": {
+          "project1": "1.0.0",
+          "project2": "1.0.0"
+        },
+        "runtime": {
+          "homework.dll": {}
+        }
+      },
+      "project1/1.0.0": {
+        "runtime": {
+          "project1.dll": {}
+        }
+      },
+      "project2/1.0.0": {
+        "dependencies": {
+          "project1": "1.0.0"
+        },
+        "runtime": {
+          "project2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "project1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "project2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
